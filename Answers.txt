@@ -1,0 +1,2 @@
+1. Accuracy increases
+2. Increasing hidden nodes from 2 to 3 caused a huge improvement in the accuracy. Highest accuracy was scored at 5 hidden nodes. But increasing hidden nodes after 5 caused slight decreases in accuracy showing too many hidden nodes can also lead to inaccurate results.
